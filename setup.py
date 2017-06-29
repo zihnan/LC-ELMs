@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name = 'lcelm',
-    packages = ['lc-elm'],
+    packages = ['lcelm'],
     scripts = [],
     version = '1.0',
     description = 'A Linear Combination Model-Based Ensemble Extreme Learning Machine',
